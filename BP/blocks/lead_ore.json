@@ -1,0 +1,18 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "heo:lead_ore"
+		},
+		"components": {
+			"tag:stone_pick_diggable": {},
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 1
+			},
+			"minecraft:map_color": "#6C6C6C"
+		}
+	}
+}

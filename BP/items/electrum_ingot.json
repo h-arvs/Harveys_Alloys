@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "heo:electrum_ingot",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "heo_electrum_ingot"
+			}
+		}
+	}
+}

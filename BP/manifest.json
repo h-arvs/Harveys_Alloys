@@ -1,0 +1,59 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"h_arvs"
+		],
+	},
+	"header": {
+		"name": "Harvey's Alloys",
+		"description": "",
+		"min_engine_version": [
+			1,
+			20,
+			80
+		],
+		"uuid": "d1262e07-612f-43a3-b3aa-e3b508f45210",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "a1d9900e-fe57-4cc6-a30c-21ac1f6e216e",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"uuid": "1c731c2f-61ef-45c8-b968-7f36da31ae81",
+			"entry": "scripts/infusion.js",
+			"language": "javascript",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "1a763d7a-4700-46c2-bbca-650d3dcf41cd",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.8.0"
+		}
+	]
+}

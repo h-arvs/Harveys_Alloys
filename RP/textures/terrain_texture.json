@@ -1,0 +1,20 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Harvey's Extra Ores",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"heo_silver_ore": {
+			"textures": "textures/blocks/ore_stone_silver"
+		},
+		"heo_deepslate_silver_ore": {
+			"textures": "textures/blocks/deepslate_silver_ore"
+		},
+		"heo_lead_ore": {
+			"textures": "textures/blocks/ore_stone_lead"
+		},
+		"heo_steel_ingot": {
+			"textures": "textures/blocks/ingot_steel"
+		}
+	}
+}

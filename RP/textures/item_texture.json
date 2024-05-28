@@ -1,0 +1,39 @@
+{
+	"resource_pack_name": "Harvey's Extra Ores",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"heo_silver_ingot": {
+			"textures": "textures/items/ingot_silver"
+		},
+		"heo_lead_ingot": {
+			"textures": "textures/items/ingot_lead_fancy"
+		},
+		"heo_steel_ingot": {
+			"textures": "textures/items/ingot_steel"
+		},
+		"heo_electrum_ingot": {
+			"textures": "textures/items/ingot_hepatizon"
+		},
+		"heo_tin_ingot": {
+			"textures": "textures/items/ingot_tin"
+		},
+		"heo_bronze_ingot": {
+			"textures": "textures/items/ingot_bronze"
+		},
+		"heo_brass_ingot": {
+			"textures": "textures/items/ingot_brass"
+		},
+		"heo_aluminium_ingot": {
+			"textures": "textures/items/ingot_aluminium"
+		},
+		"heo_platinum_ingot": {
+			"textures": "textures/items/ingot_rareearths"
+		},
+		"heo_nethersteel_ingot": {
+			"textures": "textures/items/ingot_wroughtiron"
+		},
+		"heo_zinc_ingot": {
+			"textures": "textures/items/ingot_zinc"
+		}
+	}
+}
